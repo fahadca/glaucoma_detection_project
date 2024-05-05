@@ -4,7 +4,7 @@ This project implements a web application for detecting signs of glaucoma in eye
 
 ## Overview
 
-The Glaucoma Detection Web App allows users to upload an eye image, and the underlying machine learning model predicts whether the image contains signs of glaucoma or not. The model is trained on a dataset of eye images and uses deep learning techniques for classification.
+The Glaucoma Detection Web App allows users to upload an eye image, and the underlying machine learning model predicts whether the image contains signs of glaucoma or not. The model is trained on a dataset of eye images and uses a convolutional neural network (CNN) for classification.The training of the Convolutional Neural Network (CNN) model involved the consolidation of datasets such as ACRIMA, RIM-ONE, LAG, and ORIGA etc.
 
 ## Usage
 
